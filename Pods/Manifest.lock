@@ -1,0 +1,10 @@
+PODS:
+  - SWFSemanticVersion (0.3.1)
+
+DEPENDENCIES:
+  - SWFSemanticVersion
+
+SPEC CHECKSUMS:
+  SWFSemanticVersion: 721479659be8ea5cb13f7996867a4d66dc226a48
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,6 @@
+framework module SWFSemanticVersion {
+  umbrella header "Pods-SWFSemanticVersion-umbrella.h"
+
+  export *
+  module * { export * }
+}
